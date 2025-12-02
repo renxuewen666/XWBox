@@ -1,9 +1,9 @@
 //软件填写配置地址clan://localhost/XWBox/xuewen.json
 {
 //启动引擎,定义jar地址:spider,clan://XWBox/xuewen.jar
-"spider":"clan://refs/heads/main/xuewen.json",
+"spider":"clan://XWBox/refs/heads/main/xuewen.jar",
 
-//直播地址:lives,clan://refs/heads/main/live.txt
+//直播地址:lives,clan://XWBox/refs/heads/main/live.txt
 //定义直播源地址，clan://XWBox/live.txt需要转换成Base64编码Y2xhbjovL3JlZnMvaGVhZHMvbWFpbi9saXZlLnR4dA==粘贴到'=txt&ext='后面
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL3JlZnMvaGVhZHMvbWFpbi9saXZlLnR4dA=="]}]}],
 
