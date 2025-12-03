@@ -5,7 +5,7 @@
 //璧纸地址:wallpaper
   "wallpaper": "https://bing.img.run/uhd.php",
 //定义直播源地址，clan://XWBox/live.txt需要转换成Base64编码Y2xhbjovL3JlZnMvaGVhZHMvbWFpbi9saXZlLnR4dA==粘贴到'=txt&ext='后面
-//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL3JlZnMvaGVhZHMvbWFpbi9saXZlLnR4dA=="]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3Jlbnh1ZXdlbjY2Ni9WaWRlby9yZWZzL2hlYWRzL21haW4vbGl2ZS50eHQ="]}]}],
 //定义直播源地址:lives
   "lives": [
     {
