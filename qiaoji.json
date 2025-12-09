@@ -2,7 +2,7 @@
 {
 //启动引擎,定义jar地址:spider
 //"spider": "http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01",
-  "spider": "https://github.com/renxuewen666/Video/blob/main/fix250711.jar;md5;54418536dc2a40da4e94437397895d01",
+  "spider": "https://edgeone.gh-proxy.org/https://github.com/renxuewen666/Video/blob/main/fix250711.jar;md5;54418536dc2a40da4e94437397895d01",
   
 //璧纸地址:wallpaper
   "wallpaper": "https://bing.img.run/uhd.php",
