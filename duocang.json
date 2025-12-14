@@ -1,5 +1,5 @@
 { "storeHouse": [ 
-    { "sourceName":"巧技-video","sourceUrl":"http://ren.xuewen.plus:20243/qiaoji.json"},
-    { "sourceName":"饭太硬-video","sourceUrl":"http://ren.xuewen.plus:20243/fantaiying.json"}
+    { "sourceName":"巧技-video","sourceUrl":"https://raw.githubusercontent.com/renxuewen666/Video/refs/heads/main/qiaoji.json"},
+    { "sourceName":"饭太硬-video","sourceUrl":"https://raw.githubusercontent.com/renxuewen666/Video/refs/heads/main/fantaiying"}
     ] 
 }
